@@ -1,14 +1,14 @@
 # Cupping sheet
 
-Et digitalt cupping-skjema for kaffesmaking, laget som én enkelt HTML-side som kan åpnes direkte i nettleseren.
+A digital cupping sheet for coffee tasting, made as a single HTML page that can be opened directly in the browser.
 
-**Åpne siden:** https://eldarskjorten.github.io/kaffe/
+**Open the page:** https://eldarskjorten.github.io/kaffe/
 
-## Opphav
+## Origin
 
-Dette er en justert kopi av et cupping-skjema gjort tilgjengelig for gratis nedlasting av James Hoffmann i *The Fermentation Project*. Alle rettigheter til det opprinnelige skjemaet tilhører James Hoffmann. Denne versjonen er gjort om til en nettside og tilpasset, og er ikke utgitt av eller tilknyttet ham.
+This is an adjusted copy of a cupping sheet made available for free download by James Hoffmann in *The Fermentation Project*. All rights to the original sheet belong to James Hoffmann. This version has been turned into a web page and adapted, and is not published by or affiliated with him.
 
-## Filer
+## Files
 
-- `index.html` – nettsiden som vises på lenken over
-- `Cupping-sheet-v6.html` – samme innhold, beholdt som versjon 6
+- `index.html` – the web page shown at the link above
+- `Cupping-sheet-v6.html` – the same content, kept as version 6
